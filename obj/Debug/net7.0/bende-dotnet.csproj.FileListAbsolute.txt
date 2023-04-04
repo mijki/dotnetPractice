@@ -1,0 +1,15 @@
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\bin\Debug\net7.0\bende-dotnet.exe
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\bin\Debug\net7.0\bende-dotnet.deps.json
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\bin\Debug\net7.0\bende-dotnet.runtimeconfig.json
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\bin\Debug\net7.0\bende-dotnet.dll
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\bin\Debug\net7.0\bende-dotnet.pdb
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.csproj.AssemblyReference.cache
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.AssemblyInfoInputs.cache
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.AssemblyInfo.cs
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.dll
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\refint\bende-dotnet.dll
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.pdb
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\bende-dotnet.genruntimeconfig.cache
+C:\Users\miklos.kiss\Desktop\Personal\Repos\bende-dotnet\obj\Debug\net7.0\ref\bende-dotnet.dll
